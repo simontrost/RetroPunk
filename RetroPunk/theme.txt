@@ -1,0 +1,15 @@
+title-text: ""
+title-font: "Victor's Pixel Font Regular 24"
+desktop-image: "background.png"
+
++ boot_menu {
+  left = 32%
+  top = 22%
+  width = 50%
+  height = 40%
+  item_font = "Victor's Pixel Font Regular 24"
+  item_color = "white"
+  selected_item_color = "yellow"
+  selected_item_pixmap_style = "highlight"
+}
+
