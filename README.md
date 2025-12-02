@@ -1,5 +1,23 @@
 # 🕹️ RetroPunk — GRUB2 Theme
 
+<p align="center">
+
+  <!-- Project Type -->
+  <img src="https://img.shields.io/badge/type-GRUB%20Theme-blueviolet" />
+
+  <!-- Platform -->
+  <img src="https://img.shields.io/badge/platform-Linux-black?logo=linux" />
+  <img src="https://img.shields.io/badge/bootloader-GRUB2-green" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/license-MIT-yellow" />
+
+  <!-- GitHub -->
+  <img src="https://img.shields.io/github/stars/simontrost/RetroPunk?style=social" />
+
+</p>
+
+
 A minimal **retro pixel-style GRUB theme** with a custom PF2 font and a clean centered boot menu.  
 Inspired by 80’s CRT vibes and terminal aesthetics.
 
