@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/bootloader-GRUB2-green" />
 
   <!-- License -->
-  <img src="https://img.shields.io/badge/license-MIT-yellow" />
-
+  <img src="https://img.shields.io/badge/license-GPL--3.0-blue" />
+  
   <!-- GitHub -->
   <img src="https://img.shields.io/github/stars/simontrost/RetroPunk?style=social" />
 
