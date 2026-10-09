@@ -25,15 +25,16 @@ Inspired by 80’s CRT vibes and terminal aesthetics.
 
 ---
 
-## ✨ Features
+## Features
 - Pixel-art background with neon accents  
 - Crisp custom PF2 font (`Victor’s Pixel Font Regular 24`)  
 - Centered menu with yellow selection highlight  
-- Lightweight and fully GPL-compatible  
+- Lightweight and fully GPL-compatible
+- custom dualboot background with Tekken inspired "OS-Fighters"
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/simontrost/RetroPunk.git
